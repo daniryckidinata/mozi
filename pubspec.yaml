@@ -1,0 +1,26 @@
+name: mozi
+description: This Application Created By Dani Rycki Dinata.
+publish_to: 'none' 
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.7.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.2
+  google_fonts: ^2.0.0
+  flutter_svg: ^0.19.3
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/icons/.
+    - assets/images/.
+    
