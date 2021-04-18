@@ -1,5 +1,5 @@
 # mozi
 
-![Cover](https://user-images.githubusercontent.com/52542778/115116993-aecddc80-9fc6-11eb-916d-f219f1ed1022.png)
+![Cover (1)](https://user-images.githubusercontent.com/52542778/115147899-5874a280-a087-11eb-91b7-39aa98ff995c.png)
 
 Design Credit: [Damoty Pixel](https://pixel.buildwithangga.com/details/mozi-movie-streaming-ui-kit-mobile)
